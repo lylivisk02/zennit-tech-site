@@ -1,16 +1,15 @@
 # ZENNIT tech
 
-> Tecnologia que evolui com o seu negócio.
+> Elevando o seu negócio ao nível mais alto.
 
 ## Sobre a Empresa
-Construir tecnologias de impacto que levam empresas e negócios ao seu ápice digital através do código. 
-
+Construir tecnologias de impacto que levam empresas e negócios ao seu ápice digital através do código.
 
 ## Localização
 - **Endereço:** Rua das Acácias, nº 245
-- **Local:** Bairro Floramar, São Paulo, SP - CEP: 01000-000 
+- **Local:** Bairro Floramar, São Paulo, SP - CEP 01000-000
 
 ## Equipe
 - **Emily Melo** — CEO e Desenvolvedora backend
-- **Beatriz Mendes** — Líder de Produtos e Experiência do Utilizador
-- **Richard Vance** — Arquiteto de Software Principal
+- **Beatriz Mendes** —  Líder de Produtos e Experiência do Utilizador
+- **Richard Vance** —  Arquiteto de Software Principal

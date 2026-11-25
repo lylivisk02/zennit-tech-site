@@ -38,21 +38,21 @@ export const empresa = {
     {
       nome: "Emily Melo",
       cargo: "CEO e Desenvolvedora Backend",
-      foto: "/images/emily.jpg",
+      foto: "/images/emily.png",
       alt: "Foto de Emily Melo",
       descricao: "Fundadora da ZENNIT tech, especialista em backend."
     },
     {
       nome: "Beatriz Mendes",
       cargo: "Líder de Produtos e Experiência do Utilizador",
-      foto: "/images/beatriz.jpg",
+      foto: "/images/beatriz.png",
       alt: "Foto de Beatriz Mendes",
       descricao: "Especialista em experiencia do utilizador."
     },
     {
       nome: "Richard Vance",
       cargo: "Arquiteto de Software Principal",
-      foto: "/images/richard.jpg",
+      foto: "/images/richard.png",
       alt: "Foto de Richard Vance",
       descricao: "Especialista em arquitetura de software."
     }

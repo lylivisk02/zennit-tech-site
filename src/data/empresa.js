@@ -55,6 +55,13 @@ export const empresa = {
       foto: "/images/richard.png",
       alt: "Foto de Richard Vance",
       descricao: "Especialista em arquitetura de software."
+    },
+    {
+     nome: "Jenifer Lagos",
+      cargo: "Desenvolvedora de Software Frontend",
+      foto: "/images/jenifer.png",
+      alt: "Foto de Jenifer Lagos",
+      descricao: "Especialista em desenvolvimento frontend." 
     }
   ]
 };

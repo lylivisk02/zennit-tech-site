@@ -2,8 +2,8 @@
 :root {
   /* Paleta de Cores baseada no Logo */
   --cor-primaria: #990000; /* Quase preto */
-  --cor-secundaria: #b30c0ccc; /* Azul escuro do degradê (links e botões) */
-  --cor-destaque: #ad1717; /* Azul claro do degradê (decorativo) */
+  --cor-secundaria: #af1010cc; /* Azul escuro do degradê (links e botões) */
+  --cor-destaque: #961111; /* Azul claro do degradê (decorativo) */
   --cor-fundo: #faf7f7;
   --cor-fundo-alt: #f7f7f7;
   --cor-texto: #020202;

@@ -2,7 +2,7 @@ export const empresa = {
   nome: "ZENNIT tech",
   slogan: "Elevando o seu negócio ao nível mais alto.",
   historia:
-    "Cansada de empresas limitadas ao setor jurídico, a aluna Emily Melo do MIT  fundou, em 2001, a ZENNIT tech: a software house de que o mercado precisava. Uma empresa focada em entregar resultados reais e de alta performance, longe de promessas vazias. Essa busca contínua pela excelência deu origem ao nome Zennit — uma referência direta ao ápice da precisão e do impacto —, representando a trajetória de uma empresa que se formou com a missão clara de impulsionar a transformação digital a partir da base do código. Hoje em dia, somos uma fundação reconhecida mundialmente e de extrema excelência.",
+    "Cansada de empresas limitadas ao setor jurídico, a aluna Emily Melo do MIT  fundou, em 2001, a ZENNIT tech: a software house de que o mercado precisava. Uma empresa focada em entregar resultados reais e de alta performance, longe de promessas vazias. Essa busca contínua pela excelência deu origem ao nome Zennit. Uma referência direta ao ápice da precisão e do impacto, representando a trajetória de uma empresa que se formou com a missão clara de impulsionar a transformação digital a partir da base do código. Hoje em dia, somos uma fundação reconhecida mundialmente e de extrema excelência.",
   missao:
     "Construir tecnologias de impacto que levam empresas e negócios ao seu ápice digital através do código.",
   visao:
